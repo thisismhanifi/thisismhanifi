@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thisismhanifi
+- 👋 Hi, I’m Mohammad Hanifi
 - 👀 I’m interested in C# , 
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on C# projects
