@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mohammad Hanifi
-- 👀 I’m interested in C# , 
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on C# projects
+- 👀 I’m interested in .Net , 
+- 🌱 I’m currently learning .Net
+- 💞️ I’m looking to collaborate on .Net projects
 - 📫 How to reach me >> Email : thisis.mhanfi@gmail.com     --  phone number : 0989146625466
 
 <!---
